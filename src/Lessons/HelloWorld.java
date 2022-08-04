@@ -1,3 +1,5 @@
+package Lessons;
+
 public class HelloWorld {
     public static void main(String[] args) {
         // напишем программу, которая вычисляет площадь треугольника по рандомным параметрам

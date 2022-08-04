@@ -1,3 +1,5 @@
+package Lessons;
+
 import static java.lang.Integer.sum;
 
 public class Train {
